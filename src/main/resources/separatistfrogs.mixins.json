@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.trs.separatistfrogs.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "separatistfrogs.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+    "FrogportBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
